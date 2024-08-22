@@ -2,7 +2,7 @@
 # BDT Tax Calculator
 
 <p align="center">
-  <img src="https://sifulony.github.io/bd_income_tax_Calculator/asset/appshot_20240822_1.png" alt="BDT Tax Calculator">
+  <img src="https://sifulony.github.io/bd_income_tax_Calculator/asset/appshot_20240822_2.png" alt="BDT Tax Calculator">
 </p>
 
 
