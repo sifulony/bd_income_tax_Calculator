@@ -1,14 +1,14 @@
 
-# BDT Tax Calculator
+# BD Tax Calculator
 
 <p align="center">
-  <img src="https://sifulony.github.io/bd_income_tax_Calculator/asset/appshot_20240822_2.png" alt="BDT Tax Calculator">
+  <img src="https://sifulony.github.io/bd_income_tax_Calculator/asset/appshot_20240822_2.png" alt="BD Tax Calculator">
 </p>
 
 
 ## Overview
 
-The **BDT Tax Calculator** is a web application designed to help users in Bangladesh calculate their income tax based on the current tax slabs. This tool is user-friendly, responsive, and provides a detailed breakdown of the tax calculations.
+The **BD Tax Calculator** is a web application designed to help users in Bangladesh calculate their income tax based on the current tax slabs. This tool is user-friendly, responsive, and provides a detailed breakdown of the tax calculations.
 
 ## Features
 
