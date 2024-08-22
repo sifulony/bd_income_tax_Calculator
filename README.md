@@ -1,14 +1,14 @@
 
-# BD Tax Calculator
+# BD INCOME TAX CALCULATOR
 
 <p align="center">
-  <img src="https://sifulony.github.io/bd_income_tax_Calculator/asset/appshot_20240822_2.png" alt="BD Tax Calculator">
+  <img src="https://sifulony.github.io/bd_income_tax_Calculator/asset/appshot_20240822_3.png" alt="BD INCOME TAX CALCULATOR">
 </p>
 
 
 ## Overview
 
-The **BD Tax Calculator** is a web application designed to help users in Bangladesh calculate their income tax based on the current tax slabs. This tool is user-friendly, responsive, and provides a detailed breakdown of the tax calculations.
+The **BD INCOME TAX CALCULATOR** is a web application designed to help users in Bangladesh calculate their income tax based on the current tax slabs. This tool is user-friendly, responsive, and provides a detailed breakdown of the tax calculations.
 
 ## Features
 
