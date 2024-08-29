@@ -80,6 +80,17 @@ button:hover {
     color: red;
     font-weight: 500;
 }
+.paripatra {
+    margin-top: 30px;
+    text-align: center;
+}
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: red;
+}
+
 @media (max-width: 600px) {
     .container {
         padding: 15px;
